@@ -9,3 +9,5 @@ Exploratory Data Analysis : Segment the dataset and draw unique insights, includ
 Task 2
 Predictive Analytics : Explore correlations between customer attributes, build a regression and a decision-tree prediction model based on your findings.
 
+
+
